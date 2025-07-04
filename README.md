@@ -7,9 +7,9 @@
 <h2 align="center"> Who is Cpt. Moriarty?</h2>
 
 <div>
- <p> <strong>Cpt. Moriarty is an individual who indulge in cyber security career, mainly in open-source intelligence (OSINT) Hailing from Indonesia, he is a self-taught prodigy who has exceptional logical thinking and individual abilites to solve problems. </strong> </p>
- <p> <strong> He is a member of "STELK_CSC", a group of cyber security enthusiasts who are actively competing in CTF competitions. </strong> </p>
- <p> <strong> Besides indulging in cyber security, he is also an individual who likes to design and develop a website. </strong> </p>
+ <p align="center"> <strong>Cpt. Moriarty is an individual who indulge in cyber security career, mainly in open-source intelligence (OSINT) Hailing from Indonesia, he is a self-taught prodigy who has exceptional logical thinking and individual abilites to solve problems. </strong> </p>
+ <p align="center"> <strong> He is a member of "STELK_CSC", a group of cyber security enthusiasts who are actively competing in CTF competitions. </strong> </p>
+ <p align="center"> <strong> Besides indulging in cyber security, he is also an individual who likes to design and develop a website. </strong> </p>
  <br/>
 </div>
 
